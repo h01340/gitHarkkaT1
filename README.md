@@ -9,3 +9,5 @@ Tehtävän kuvaus
 3. Vie muutokset GitHubiin komennoilla: git add . ja sen jälkeen git commit -m "laita lyhyt kuvaus muutoksesta"
 4. Vie muutokset remote repositoryyn git push komennolla.
 5. Tuliko konflikti tilannetta? Miten ratkaisit sen?
+
+Eikä muuta kuin noi.
