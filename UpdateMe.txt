@@ -4,5 +4,6 @@ Otto: juupase juu
 Rane: kyllä näin on
 Masa: Miten tää toimii?
 Minnan kone
+Minna tekee muutoksen klo 09
 
 Ope koneella toimitaan
