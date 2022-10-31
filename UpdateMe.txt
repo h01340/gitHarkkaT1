@@ -5,3 +5,4 @@ Rane: kyllä näin on
 Masa: Miten tää toimii?
 Minnan kone
 
+Ope koneella toimitaan
